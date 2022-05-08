@@ -26,4 +26,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git \
 # text-based web-browser, sometime it's fun to browse text website and 
 # documents and prevent the Javascript from  being executed by hacker.
 
-sudo apt install lynx elinks 
+sudo apt install lynx elinks
+
+# install other useful terminal tool 
+sudo apt install tilix

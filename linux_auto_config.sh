@@ -22,6 +22,8 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git \
 # https://www.youtube.com/watch?v=PZTLIVQxxEY
 # Above Youtube video provide a tutorial of how to configure the 
 # oh-my-zsh and powerlevel10k.
+# The key here is that if we want display icons on the terminal weindow
+# we must add some fonts which Ubuntu do not ship with. 
 
 # text-based web-browser, sometime it's fun to browse text website and 
 # documents and prevent the Javascript from  being executed by hacker.

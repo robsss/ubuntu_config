@@ -32,3 +32,6 @@ sudo apt install lynx elinks
 
 # install other useful terminal tool 
 sudo apt install tilix
+
+# latex installation
+sudo apt-get install texlive-full

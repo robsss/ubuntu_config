@@ -35,3 +35,5 @@ sudo apt install tilix
 
 # latex installation
 sudo apt-get install texlive-full
+
+cd ~/Downloads && wget https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-x86_64.sh && bash Anaconda-latest-Linux-x86_64.sh

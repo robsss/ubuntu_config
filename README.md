@@ -4,5 +4,5 @@ If it possible to automatically configure my ubuntu terminal environment after r
 There are so many tools which can facilate the programmer and content producer, LaTex worth a `thumb_up`
 
 ## LaTex
-
+Recommand this tutorial to start [Wanna Learn LaTex ](https://lukesmith.xyz/latex)
 

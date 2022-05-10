@@ -34,3 +34,7 @@ Use th CTRL+ALT+T keyboard shortcut
 ... (elipsis) 
 
 Please refer to [How to add Chinese Pinyin input to XPS 9310 laptops that ship with Ubuntu 20.04 in English](https://www.dell.com/support/kbdoc/en-hk/000181184/how-to-add-chinese-pinyin-input-to-xps-9310-laptops-that-ship-with-ubuntu-20-04-in-english?lwp=rt) cause I am lazy (:>)
+
+## resize partition using command line when the GUI tools `Gparted` doesn't work 
+
+[How can I resize an ext root partition at runtime?](https://askubuntu.com/questions/24027/how-can-i-resize-an-ext-root-partition-at-runtime#comment1735022_937351)

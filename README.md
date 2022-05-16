@@ -55,17 +55,20 @@ sudo apt install neovim
 ### video related GitHub repos
 - the plugin manager the author used
 
-[vim_plug_manager](https://github.com/junegunn/vim-plug)
+[vim_plugn_manager](https://github.com/junegunn/vim-plug)
 
 - the configuration file of the author
 
 [vim_plinins](https://github.com/junegunn/vim-plug)
 
 
+## `ranger` command line file system
 
+Even though the ranger does not have colorful GUI, but the content is useful and the command line is much more powerful, so I recommand use ranger with `tmux + zsh + vim + ranger`
 
+Thus, make all of the operations happen only in terminal window, which is much more concentrated, no distraction.
 
-
+## `screenkey` screencast the key stroke
 
 
 
